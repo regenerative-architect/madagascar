@@ -1,0 +1,181 @@
+{
+  "reviewed_at": "2026-10-27",
+  "note": "Evidence references only; do not interpret as live inventory, government endorsement, or parcel-level species approval",
+  "references": [
+    {
+      "id": "S1",
+      "title": "Madagascar ecoregions — One Earth",
+      "url": "https://www.oneearth.org/bioregions/madagascar-island-at6/"
+    },
+    {
+      "id": "S2",
+      "title": "Kew — 10 Golden Rules for Reforestation",
+      "url": "https://www.kew.org/read-and-watch/10-golden-rules-for-reforestation"
+    },
+    {
+      "id": "S3",
+      "title": "Kew — Malagasy grasslands (TANETI)",
+      "url": "https://www.kew.org/science/our-science/projects/gcbc-taneti"
+    },
+    {
+      "id": "S4",
+      "title": "SNGF — Madagascar official forest-seed source",
+      "url": "https://www.environnement.mg/organisme-rattache/silo-national-des-graines-forestieres-a-madagascar/"
+    },
+    {
+      "id": "S5",
+      "title": "SNGF — planting-season offer, 15 October 2026",
+      "url": "https://www.environnement.mg/actualites/%F0%9D%90%92%F0%9D%90%9A%F0%9D%90%A2%F0%9D%90%AC%F0%9D%90%A8%F0%9D%90%A7-%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%AC-%F0%9D%90%A9%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%AD/"
+    },
+    {
+      "id": "S6",
+      "title": "SOC — registered/certified seed suppliers",
+      "url": "https://soc-semences.miasa.gov.mg/"
+    },
+    {
+      "id": "S7",
+      "title": "SOC — register of south-region varieties",
+      "url": "https://soc-semences.miasa.gov.mg/registre-des-especes-et-varietes/"
+    },
+    {
+      "id": "S8",
+      "title": "FOFIFA — local agricultural seed programme",
+      "url": "https://www.fofifa.mg/production-de-semences/"
+    },
+    {
+      "id": "S9",
+      "title": "Agriculture ministry — 2025 Boeny certified varieties",
+      "url": "https://www.minae.gov.mg/vers-une-agriculture-resiliente-a-madagascar-18-varietes-de-semences-homologuees-pour-la-region-de-boeny/"
+    },
+    {
+      "id": "S10",
+      "title": "Malagasy customs — seeds and plants import formalities",
+      "url": "https://www.douanes.gov.mg/prohibitions-et-interdictions/"
+    },
+    {
+      "id": "S11",
+      "title": "Plant Protection Directorate (DPV)",
+      "url": "https://www.miasa.gov.mg/direction-de-la-protection-des-vegetaux-dpv/"
+    },
+    {
+      "id": "S12",
+      "title": "Missouri Botanical Garden — ecological restoration and monitoring",
+      "url": "https://mobot.mg/conservation/ecological_restoration/"
+    },
+    {
+      "id": "S13",
+      "title": "Global Mangrove Alliance — restoration guidelines",
+      "url": "https://www.mangrovealliance.org/best-practice-guidelines-for-mangrove-restoration"
+    },
+    {
+      "id": "S14",
+      "title": "IITA — cowpea production manual",
+      "url": "https://www.iita.org/wp-content/uploads/2020/05/Cowpea-manualENGLISH.pdf"
+    },
+    {
+      "id": "S15",
+      "title": "Kew — Tapia (Uapaca bojeri)",
+      "url": "https://www.kew.org/plants/tapia-tree"
+    },
+    {
+      "id": "S16",
+      "title": "Madagascar dry-forest native species overview",
+      "url": "https://www.wildmadagascar.org/overview/forest_types.html"
+    },
+    {
+      "id": "S17",
+      "title": "One Earth — Madagascar mangrove species",
+      "url": "https://www.oneearth.org/ecoregions/madagascar-mangroves/"
+    },
+    {
+      "id": "S18",
+      "title": "Agroforestry research — Madagascar review",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11286679/"
+    },
+    {
+      "id": "S19",
+      "title": "Peer-reviewed — native vanilla support trees",
+      "url": "https://link.springer.com/article/10.1007/s10457-022-00733-y"
+    },
+    {
+      "id": "S20",
+      "title": "CABI — invasive plants in Africa",
+      "url": "https://www.cabi.org/Uploads/CABI/publishing/promotional-materials/african-invasives-book.pdf"
+    },
+    {
+      "id": "S21",
+      "title": "MBG — invasive Melaleuca at Pointe à Larrée",
+      "url": "https://mobot.mg/conservation/pointe-a-larree-site/di-melaleuca-2/"
+    },
+    {
+      "id": "S22",
+      "title": "Kew — native dry forest regeneration field programme",
+      "url": "https://www.kew.org/science/our-science/projects/regeneration-and-livelihoods-madagascar"
+    },
+    {
+      "id": "S23",
+      "title": "Kew — National tree seed bank partnership",
+      "url": "https://www.kew.org/science/our-science/projects/GTSB-madagascar"
+    },
+    {
+      "id": "S24",
+      "title": "ADRA Madagascar — community mangrove nurseries",
+      "url": "https://adra.mg/miatrika-project-advances-mangrove-restoration-and-sustainable-livelihoods-in-southwestern-madagascar/"
+    },
+    {
+      "id": "S25",
+      "title": "Kew Plants of the World — Uapaca bojeri",
+      "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A358109-1"
+    },
+    {
+      "id": "S26",
+      "title": "Kew POWO — Abrahamia ditimena",
+      "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77175646-1"
+    },
+    {
+      "id": "S27",
+      "title": "Plants for a Future/PROTA — Grandidier baobab local range",
+      "url": "https://plantuse.plantnet.org/en/Adansonia_grandidieri_%28PROTA%29"
+    },
+    {
+      "id": "S28",
+      "title": "FAO — 10 golden restoration rules",
+      "url": "https://www.fao.org/family-farming/detail/en/c/1711090/"
+    },
+    {
+      "id": "S29",
+      "title": "FAO — pigeon pea establishment",
+      "url": "https://www.fao.org/4/ar816e/ar816e.pdf"
+    },
+    {
+      "id": "S30",
+      "title": "Madagascar Customs — restricted wild plants/CITES",
+      "url": "https://www.douanes.gov.mg/prohibitions-et-interdictions/"
+    },
+    {
+      "id": "S31",
+      "title": "Global mangrove manual — hydrology and species positioning",
+      "url": "https://www.fao.org/sustainable-forest-management/toolbox/tools/tool-detail/en/c/1335100/"
+    },
+    {
+      "id": "S32",
+      "title": "Agriculture — accredited establishments lookup",
+      "url": "https://soc-semences.mg/liste-des-etablissements-semenciers/"
+    },
+    {
+      "id": "S33",
+      "title": "Kew/GCBC — 2026 alien/invasive grasses study",
+      "url": "https://www.gcbc.org.uk/evidence-repository/alien-and-invasive-poaceae-weed-species-in-madagascar-listing-and-recommendations/"
+    },
+    {
+      "id": "S34",
+      "title": "One Earth — eastern humid forest ecology",
+      "url": "https://www.oneearth.org/ecoregions/madagascar-humid-forests/"
+    },
+    {
+      "id": "S35",
+      "title": "CRS — agroforestry in Malagasy spice systems",
+      "url": "https://www.crs.org/projects/spices-program-supporting-farmers-madagascar"
+    }
+  ]
+}

@@ -1,0 +1,660 @@
+{
+  "schema_version": 1,
+  "reviewed": "2026-10-27",
+  "species": [
+    {
+      "id": "symphonia",
+      "name": "Symphonia globulifera",
+      "common": "Native canopy tree",
+      "biome": "humid",
+      "kind": "native",
+      "role": "Habitat structure, shade and forest diversity",
+      "source": "SNGF or a district-licensed native nursery; request seed-origin record.",
+      "method": "Use locally collected, legally sourced nursery stock only in a mapped historical humid-forest restoration plot. Local botanist sets handling and spacing.",
+      "care": "Mulch away from stem; protect from fire, trampling and cyclone damage.",
+      "monitor": "Tag seedlings; inspect canopy damage and 12-month survival.",
+      "caution": "Local range, wetness, taxonomy and provenance require on-site verification.",
+      "refs": [
+        "S2",
+        "S12",
+        "S34"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "ravenala",
+      "name": "Ravenala madagascariensis",
+      "common": "Traveller’s tree",
+      "biome": "humid",
+      "kind": "native",
+      "role": "Existing eastern-forest mosaic and agroforestry structural diversity",
+      "source": "SNGF or local indigenous nursery; verify provenance and site range.",
+      "method": "Raise verified nursery seedlings; use only within documented natural range on disturbed humid-forest edges where restoration specialists advise.",
+      "care": "Water during establishment if needed; protect from cyclone exposure.",
+      "monitor": "Recruitment, mortality, seed spread and wildlife use.",
+      "caution": "Do not assume natural range extends to any Madagascar district; avoid mass single-species planting.",
+      "refs": [
+        "S1",
+        "S2",
+        "S12"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "intsia",
+      "name": "Intsia bijuga",
+      "common": "Indian Ocean ironwood",
+      "biome": "humid",
+      "kind": "native",
+      "role": "Long-lived coastal/littoral forest tree where locally indigenous",
+      "source": "SNGF/native community nursery, only site-matched local genotype.",
+      "method": "Specialist nursery propagation; restore into verified historical littoral/coastal forest behind appropriate setback.",
+      "care": "Protect from salt spray beyond tolerance, encroachment and fires.",
+      "monitor": "Tag growth and canopy recovery at 6 and 12 months.",
+      "caution": "Slow-growing; may face harvest pressure; jurisdictional protection and provenance check needed.",
+      "refs": [
+        "S2",
+        "S12"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "vanilla",
+      "name": "Vanilla planifolia",
+      "common": "Vanilla (existing farm crop)",
+      "biome": "humid",
+      "kind": "farm",
+      "role": "Income diversification under an existing multistory farm canopy",
+      "source": "Certified clean cuttings from established local producers/cooperatives; verify phytosanitary health.",
+      "method": "Plant healthy cuttings at base of locally approved support trees in existing shaded fields; ensure drainage and expert pruning practice.",
+      "care": "Use shade management, mulch, clean tools and sanitation; watch Fusarium root/stem rot.",
+      "monitor": "Vine survival, disease, labor, flowering and net household income.",
+      "caution": "Non-native commercial crop; no conversion of remaining forest to vanilla plantations.",
+      "refs": [
+        "S18",
+        "S19",
+        "S35"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "cacao",
+      "name": "Theobroma cacao",
+      "common": "Cacao (managed agroforest)",
+      "biome": "humid",
+      "kind": "farm",
+      "role": "Shade-grown household income on existing farmland",
+      "source": "Local nursery or established grower cooperative offering selected disease-free plants.",
+      "method": "Use existing cultivated land with layered, preferably native shade; transplant at rainy season with drainage and tested cultivars.",
+      "care": "Weed/mulch; monitor shade, black-pod disease, pests and soil fertility.",
+      "monitor": "Fruit yield, tree disease, shade diversity and cost of care.",
+      "caution": "Do not expand by clearing native forest; not adapted to cool uplands or dry south.",
+      "refs": [
+        "S18",
+        "S35"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "ginger",
+      "name": "Zingiber officinale",
+      "common": "Ginger (managed garden)",
+      "biome": "humid",
+      "kind": "farm",
+      "role": "Short-cycle cash/food crop in existing garden land",
+      "source": "Existing local agricultural input/cooperative suppliers of disease-free rhizomes.",
+      "method": "Plant sound rhizome pieces in prepared raised beds with mulch and rain-fed moisture; agree local spacing with extension agent.",
+      "care": "Maintain drainage; remove rotting plants; rotate and avoid contaminated planting stock.",
+      "monitor": "Stand establishment, rot symptoms and harvest volume.",
+      "caution": "Contain in existing farm boundaries; do not plant in forest understory.",
+      "refs": [
+        "S18",
+        "S35"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "tapia",
+      "name": "Uapaca bojeri",
+      "common": "Tapia tree",
+      "biome": "subhumid",
+      "kind": "native",
+      "role": "Native fire-tolerant tapia woodland, edible fruits, wild-silk habitat",
+      "source": "SNGF or authorized tapia-conservation nursery, with local genetic provenance.",
+      "method": "Only reinforce documented tapia woodland or suitable recovery mosaic under local woodland management, not a blanket tree plantation.",
+      "care": "Protect regeneration from recurring destructive fires, livestock browse and harvesting pressure.",
+      "monitor": "Natural seedlings, landibe moth habitat, grazing compatibility and tree survival.",
+      "caution": "Tapia woodland is an ecosystem with local rights and special management; do not overplant.",
+      "refs": [
+        "S15",
+        "S25",
+        "S3"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "podocarpus",
+      "name": "Podocarpus madagascariensis",
+      "common": "Madagascar podocarp",
+      "biome": "subhumid",
+      "kind": "native",
+      "role": "Native forest diversity in suitable highland forest remnants",
+      "source": "SNGF offers this taxon in its forest seedling listings; confirm exact species and geographic provenance.",
+      "method": "Nursery-raised planting only inside appropriate restored native forest, after local range survey.",
+      "care": "Protect shade/moisture for young plants; prevent soil disturbance.",
+      "monitor": "12-month survival, natural recruitment and wildlife recovery.",
+      "caution": "Species-specific forest requirement and protected status require verification.",
+      "refs": [
+        "S4",
+        "S12",
+        "S2"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "bean",
+      "name": "Phaseolus vulgaris",
+      "common": "Common bean (cultivated)",
+      "biome": "subhumid",
+      "kind": "farm",
+      "role": "Protein and nitrogen contribution within crop rotation",
+      "source": "FOFIFA/SOC-accredited crop seed providers, matching altitude and variety.",
+      "method": "Sow tested local cultivar in cultivated plots at first reliable rain; follow packet or extension row-depth recommendations.",
+      "care": "Weed early; maintain rotation, control bean disease and drain saturated soil.",
+      "monitor": "Germination, pod yield, pests and soil cover.",
+      "caution": "This is a crop, not a forest-restoration species.",
+      "refs": [
+        "S6",
+        "S8"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "sweetpotato",
+      "name": "Ipomoea batatas",
+      "common": "Sweet potato (cultivated)",
+      "biome": "subhumid",
+      "kind": "farm",
+      "role": "Nutrition and field coverage on suitable cultivated land",
+      "source": "Disease-free local vine cuttings from agricultural nursery or farmer seed network.",
+      "method": "Set cuttings on cultivated ridges or beds once moisture sufficient; choose locally tested cultivar.",
+      "care": "Weed, protect cuttings from grazing, manage weevils, ensure adequate establishment moisture.",
+      "monitor": "Tuber harvest, vine survival, weevil damage and dietary use.",
+      "caution": "Use managed farmland; sweet potato is not appropriate as a habitat restoration introduction.",
+      "refs": [
+        "S6",
+        "S8"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "potato",
+      "name": "Solanum tuberosum",
+      "common": "Potato (highland farm crop)",
+      "biome": "subhumid",
+      "kind": "farm",
+      "role": "Cooler-highland calories and livelihood diversification",
+      "source": "SOC-authorized supplier or FOFIFA-linked disease-free seed potatoes.",
+      "method": "Plant certified tubers into cultivated well-drained highland beds in locally recommended season.",
+      "care": "Hill soil, rotate crops and promptly remove blight-infected leaves as advised.",
+      "monitor": "Yield, blight incidence, storage loss and input cost.",
+      "caution": "Avoid seed potatoes of unknown disease status.",
+      "refs": [
+        "S6",
+        "S8"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "dalbergia",
+      "name": "Dalbergia greveana",
+      "common": "Madagascar rosewood (dry-forest)",
+      "biome": "dry",
+      "kind": "native",
+      "role": "Ecological restoration of site-matched dry forests; habitat diversity",
+      "source": "SNGF lists this species; obtain legal-origin plants and paperwork directly.",
+      "method": "Use local-origin, legally documented nursery plants only as part of native-species mix in verified natural range.",
+      "care": "Protect seedlings against fire, grazing and illegal cutting.",
+      "monitor": "Survival and anti-harvest safeguards, with no public precise GPS for rare plants.",
+      "caution": "High conservation/harvest sensitivity; NEVER trade wild seed or wood without legal clearance.",
+      "refs": [
+        "S4",
+        "S16",
+        "S22",
+        "S30"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "cordyla",
+      "name": "Cordyla madagascariensis",
+      "common": "Native western dry-forest tree",
+      "biome": "dry",
+      "kind": "native",
+      "role": "Canopy diversity in western dry and transitional forest",
+      "source": "SNGF/native local nursery; ask district botanist to identify suitable seed stands.",
+      "method": "Raise stock from approved local sources; plant into verified historical forest with firebreak and browsing plan.",
+      "care": "Establish at rains; mulch where sensible; keep invasive grasses from seedlings.",
+      "monitor": "Annual survival, growth and return of natural vegetation.",
+      "caution": "Locally verify occurrence and soil before moving planting material between districts.",
+      "refs": [
+        "S16",
+        "S22"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "abrahamia",
+      "name": "Abrahamia ditimena",
+      "common": "Native seasonally dry-forest tree",
+      "biome": "dry",
+      "kind": "native",
+      "role": "Local dry forest reconstruction with Malagasy endemic flora",
+      "source": "Locally sourced permitted tree nursery; confirm updated taxon name before purchase.",
+      "method": "Seed/nursery protocol only after practitioner confirmation; favor assisted natural regeneration if seedlings present.",
+      "care": "Exclude damaging fire/grazing; monitor natural recovery.",
+      "monitor": "New native recruits, survival and competitive invasive plants.",
+      "caution": "Sometimes listed by old name Protorhus ditimena; do not purchase unidentified Protorhus spp.",
+      "refs": [
+        "S26",
+        "S2",
+        "S12"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "sorghum",
+      "name": "Sorghum bicolor",
+      "common": "Sorghum (cultivated)",
+      "biome": "dry",
+      "kind": "farm",
+      "role": "Drought-tolerant grain crop and household food",
+      "source": "SOC-accredited district seller; ask specifically for approved IRAT 204, MACIA or region-registered variety where suitable.",
+      "method": "Direct seed into moisture-bearing existing fields following local certified seed packet and soil profile; test small plots first.",
+      "care": "Weed in first weeks; control birds and striga where present; avoid water stress at flowering where feasible.",
+      "monitor": "Emergence, days to maturity, grain weight, household consumption and yield per hectare.",
+      "caution": "A drought-tolerant crop is not drought-proof; regional approval and real water budget still matter.",
+      "refs": [
+        "S7",
+        "S9",
+        "S6"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "cowpea",
+      "name": "Vigna unguiculata",
+      "common": "Cowpea / niébé",
+      "biome": "dry",
+      "kind": "farm",
+      "role": "Protein, soil cover and crop rotation",
+      "source": "SOC-accredited seed producers; Boeny varieties include Black eyes and Zazamena, verify local approval.",
+      "method": "For erect cultivars an IITA starting reference is 50 cm between rows × 20 cm plants; adapt locally. Sow 2–3 viable seeds per station, thin per cultivar guidance.",
+      "care": "Control early weeds and insects; dry harvested seed well; rotate with cereals.",
+      "monitor": "Germination, pods, dry seed yield, insect damage and dietary use.",
+      "caution": "Spacing depends on variety (vining types need more space); seed quality and land suitability first.",
+      "refs": [
+        "S9",
+        "S14",
+        "S6"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "adansonia_g",
+      "name": "Adansonia grandidieri",
+      "common": "Grandidier’s baobab",
+      "biome": "succulent",
+      "kind": "native",
+      "role": "Endemic local-range habitat recovery and long-term genetic conservation",
+      "source": "SNGF/approved conservation partners only, with local authorization and provenance.",
+      "method": "Only specialist planting within its narrow southwestern coastal dry forest range; prioritize safeguarding adults and natural seedlings.",
+      "care": "Establish during adequate rain; protect from grazing, fire and illegal removal.",
+      "monitor": "Existing adults, recruit survival, seed origin and long-term habitat trend.",
+      "caution": "Not a general drought tree for the rest of Madagascar; endangered/high-conservation-value.",
+      "refs": [
+        "S27",
+        "S4",
+        "S2"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "adansonia_za",
+      "name": "Adansonia za",
+      "common": "Za baobab",
+      "biome": "succulent",
+      "kind": "native",
+      "role": "Native woodland structure and biodiversity where locally indigenous",
+      "source": "SNGF or registered Malagasy endemic-tree nursery; request precise permitted provenance.",
+      "method": "Raise approved seedlings only for locales with verified natural occurrence, ideally in mixed native woodland restoration.",
+      "care": "Protect saplings from browsing and fire over multiple seasons.",
+      "monitor": "Annual survival, regeneration and fruiting of mature local stock.",
+      "caution": "Do not mix separate district genetic populations indiscriminately.",
+      "refs": [
+        "S4",
+        "S2",
+        "S16"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "bambara",
+      "name": "Vigna subterranea",
+      "common": "Bambara groundnut / voanjobory",
+      "biome": "succulent",
+      "kind": "farm",
+      "role": "Resilient grain legume, nutritional diversity",
+      "source": "SOC seed producers or local crop cooperative with region-appropriate verified seed.",
+      "method": "Sow into prepared existing farmland as rainy season starts; plant spacing and maturity based on local cultivar.",
+      "care": "Weed during establishment; avoid waterlogging and rotate crops.",
+      "monitor": "Germination, food availability and grain storage losses.",
+      "caution": "Suitability of a particular cultivar under very low rain remains unverified until trials.",
+      "refs": [
+        "S6",
+        "S8"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "sesame",
+      "name": "Sesamum indicum",
+      "common": "Sesame (farm crop)",
+      "biome": "succulent",
+      "kind": "farm",
+      "role": "Potential low-input cash/food oilseed",
+      "source": "SOC-authorized seed dealer if approved variety is documented in district.",
+      "method": "Pilot only in an existing well-drained plot during reliable rainfall, subject to local extension guidance.",
+      "care": "Keep weed-free early; protect maturing capsules and dry promptly.",
+      "monitor": "Seed yield, disease, market price and labor.",
+      "caution": "Availability/registration in a given district is not confirmed here.",
+      "refs": [
+        "S6",
+        "S32"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "alluaudia",
+      "name": "Alluaudia procera",
+      "common": "Octopus tree / native spiny thicket",
+      "biome": "spiny",
+      "kind": "native",
+      "role": "Structure and habitat continuity in Madagascar’s spiny thicket",
+      "source": "Authorized local conservation nursery only; verify Didiereaceae permits and origin.",
+      "method": "Do not transplant from the wild; specialist nursery restoration only on verified indigenous spiny-forest sites.",
+      "care": "Shield from herbivory and fire, avoid excessive irrigation and disturbance.",
+      "monitor": "12-month survival, recruitment and adjacent endemic flora.",
+      "caution": "Didiereaceae are regulated; never advertise online wild collection or unscreened trade.",
+      "refs": [
+        "S1",
+        "S30",
+        "S2"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "didierea",
+      "name": "Didierea madagascariensis",
+      "common": "Endemic spiny-thicket tree",
+      "biome": "spiny",
+      "kind": "native",
+      "role": "Conserve threatened arid thorn-forest habitat",
+      "source": "Authorized endemic-species conservation programme and local community nursery.",
+      "method": "Conservation-led propagation only after district-level habitat, legal and genetic review.",
+      "care": "Prefer protection of naturally regenerating plants; careful establishment irrigation by local expert.",
+      "monitor": "Plant survival and vegetation composition rather than tree-count targets.",
+      "caution": "Spiny-thicket specialist, protected movement restrictions; not ornamental export project.",
+      "refs": [
+        "S1",
+        "S30",
+        "S22"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "moringa_d",
+      "name": "Moringa drouhardii",
+      "common": "Endemic Malagasy dryland tree",
+      "biome": "spiny",
+      "kind": "native",
+      "role": "Specialist recovery of southern/southwestern native vegetation",
+      "source": "Authorized local native-tree nursery or botanist; confirm natural range.",
+      "method": "Pilot with site-matched endemic nursery stock on degraded native habitat only after expert advice.",
+      "care": "Exclude livestock pressure, watch for drought mortality in first two seasons.",
+      "monitor": "Survival, wild recruitment and habitat fit.",
+      "caution": "Do not confuse with introduced Moringa oleifera or assume the same edible uses.",
+      "refs": [
+        "S1",
+        "S2",
+        "S12"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "peanut",
+      "name": "Arachis hypogaea",
+      "common": "Groundnut / arachide",
+      "biome": "spiny",
+      "kind": "farm",
+      "role": "Food, oil, diversified crop rotation",
+      "source": "SOC-approved seed network; Boeny approvals include Marabe, Menakely and Menabe, but confirm southern suitability.",
+      "method": "Sow clean, locally recommended seed into soil with reliable early moisture in existing crop plots.",
+      "care": "Weed/earth up as advised, dry pods on clean surfaces; avoid mold during storage.",
+      "monitor": "Pods, aflatoxin-prevention practices, household consumption and soil erosion.",
+      "caution": "Requires rain during establishment; poor drying can cause serious food-safety hazards.",
+      "refs": [
+        "S9",
+        "S6",
+        "S8"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "pigeonpea",
+      "name": "Cajanus cajan",
+      "common": "Pigeon pea / cajanus",
+      "biome": "spiny",
+      "kind": "farm",
+      "role": "Perennial legume for managed field margins and edible pulses",
+      "source": "Regionally established crop-seed producer via SOC directory or FOFIFA partner; confirm allowed variety.",
+      "method": "On farm boundaries only: test 1 m between rows, 30–50 cm in-row for a standalone crop and 2.5–4 cm sowing depth as general FAO reference.",
+      "care": "Protect seedlings from browse; prune only with local guidance; manage pod pests.",
+      "monitor": "Household harvest, survival and any escape outside field perimeter.",
+      "caution": "Woody legume with potential to persist/spread; avoid near natural habitat without ecological assessment.",
+      "refs": [
+        "S29",
+        "S6",
+        "S8"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "cassava",
+      "name": "Manihot esculenta",
+      "common": "Cassava (existing cultivated crop)",
+      "biome": "spiny",
+      "kind": "farm",
+      "role": "Drought-season calories once established in suitable field",
+      "source": "Disease-free cuttings from Malagasy approved local crop nursery or farmer network.",
+      "method": "Plant viable stakes in existing fields at start of reliable rain; follow local cultivar and spacing advice.",
+      "care": "Weed first months; manage mosaic disease; avoid exhausting poor soils.",
+      "monitor": "Yield, root rot, plant health and household cooking protocols.",
+      "caution": "Some varieties have high cyanogenic compounds: safe processing is essential; never consume raw roots/leaves.",
+      "refs": [
+        "S6",
+        "S8"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "rhizophora",
+      "name": "Rhizophora mucronata",
+      "common": "Red mangrove",
+      "biome": "mangrove",
+      "kind": "native",
+      "role": "Tidal mangrove recruitment in locally suitable elevations",
+      "source": "Nearby community-run mangrove nursery/approved restoration group; e.g. ADRA MIATRIKA project area.",
+      "method": "First re-establish tidal exchange and natural propagule recruitment; plant local propagules only in matched tidal zones when experts determine needed.",
+      "care": "Protect tidal channels from blockage and propagules from trampling.",
+      "monitor": "Tidal exposure, sediment level, natural recruits, survival and shoreline change.",
+      "caution": "Planting into seagrass, tidal mudflats or unsuitable elevations can cause harm and fail.",
+      "refs": [
+        "S13",
+        "S17",
+        "S24",
+        "S31"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "avicennia",
+      "name": "Avicennia marina",
+      "common": "Grey mangrove",
+      "biome": "mangrove",
+      "kind": "native",
+      "role": "Mangrove zone diversity, saline-site recruitment",
+      "source": "Existing Madagascar community nursery with local seed provenance.",
+      "method": "Ecological hydrology first; restore only in correct local elevation and salinity zone; support natural regeneration if present.",
+      "care": "Monitor water flows, avoid cutting channels and grazing.",
+      "monitor": "Recruitment by tidal band and seedling health.",
+      "caution": "Do not assume tolerance means suitable for every bare coastal flat.",
+      "refs": [
+        "S13",
+        "S17",
+        "S24"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "ceriops",
+      "name": "Ceriops tagal",
+      "common": "Ceriops mangrove",
+      "biome": "mangrove",
+      "kind": "native",
+      "role": "Tidal-gradient diversity and mangrove recovery",
+      "source": "Local coastal nursery linked to local restoration programme, with permission.",
+      "method": "Species-specific position on tidal gradient selected by local restoration team; no blanket seedling grids.",
+      "care": "Track tidal connectivity, freshwater inflow and propagule survival.",
+      "monitor": "Survival by elevation, creek connection and natural regeneration.",
+      "caution": "Only in historically mangrove-appropriate sites; protect intertidal non-mangrove habitat.",
+      "refs": [
+        "S13",
+        "S17",
+        "S24"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "sonneratia",
+      "name": "Sonneratia alba",
+      "common": "Mangrove apple",
+      "biome": "mangrove",
+      "kind": "native",
+      "role": "Mangrove species diversity along suitable coast",
+      "source": "Approved local mangrove nursery or community-collected propagules under authorization.",
+      "method": "Use only where hydrodynamics and substrate match existing local Sonneratia stands.",
+      "care": "Protect estuarine water flows, monitor erosion and water quality.",
+      "monitor": "Presence of natural recruits, seedling survival and fish habitat.",
+      "caution": "Expert identification important; no mass planting on open tidal flats.",
+      "refs": [
+        "S13",
+        "S17"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "rice",
+      "name": "Oryza sativa",
+      "common": "Rice (managed paddy crop)",
+      "biome": "wetland",
+      "kind": "farm",
+      "role": "Staple food in existing rice production systems",
+      "source": "FOFIFA certified varieties via SOC-accredited sellers and regional research stations.",
+      "method": "Only within legally existing paddy systems; choose locally recommended irrigated or rain-fed variety, seedbed and planting schedule.",
+      "care": "Manage irrigation judiciously; protect natural marsh edges, soil and downstream water users.",
+      "monitor": "Grain yield, irrigation volume and wetland boundary integrity.",
+      "caution": "Never drain natural marshes or clear swamp forest to expand rice.",
+      "refs": [
+        "S8",
+        "S6"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "taro",
+      "name": "Colocasia esculenta",
+      "common": "Taro (cultivated)",
+      "biome": "wetland",
+      "kind": "farm",
+      "role": "Diverse starch crop in established moist gardens",
+      "source": "Locally produced clean corms/planting pieces with agricultural extension advice.",
+      "method": "Plant only in already-cultivated moist plots with controlled water, separate from native marshes.",
+      "care": "Manage pests and water; cook edible parts properly, monitor wetland escape.",
+      "monitor": "Plant yield, flood damage and native wetland vegetation.",
+      "caution": "Can spread or escape in wet places; raw taro is irritating/toxic and requires proper cooking.",
+      "refs": [
+        "S6",
+        "S2"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "marsh_native",
+      "name": "Native sedges & riparian assemblages (locally identified)",
+      "common": "Botanist-approved native guild",
+      "biome": "wetland",
+      "kind": "hold",
+      "role": "Protect soil, wetland bird habitat, filtration and water retention",
+      "source": "Local wetland plant conservation nursery after species-specific identification and authorization.",
+      "method": "Protect wetland hydrology and natural colonisation; plant only named, surveyed local species where required.",
+      "care": "Remove invasive water hyacinth by approved programmes; reduce grazing/contamination.",
+      "monitor": "Native plant cover, wetland water levels, invasive cover and water quality.",
+      "caution": "Not a retail species: avoid importing foreign sedge or reed mixes.",
+      "refs": [
+        "S2",
+        "S12",
+        "S21"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "native_grass",
+      "name": "Locally native grasses and forbs",
+      "common": "Site survey, not purchased grass mix",
+      "biome": "grassland",
+      "kind": "hold",
+      "role": "Protect ancient grassland biodiversity, grazing and belowground carbon",
+      "source": "Local botany teams and pastoral communities; do not order generic imported grass seed.",
+      "method": "Survey grassland origin, indigenous species and pastoral rights before any intervention; support natural grass recovery where degraded.",
+      "care": "Reduce damaging erosion/fire pressures as locally agreed; retain necessary grazing access.",
+      "monitor": "Native cover, soil stability, infiltration and livestock access.",
+      "caution": "Tree planting can damage ancient grassland ecosystems.",
+      "refs": [
+        "S3",
+        "S33",
+        "S2"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    },
+    {
+      "id": "ericoid",
+      "name": "Local Erica / Helichrysum communities",
+      "common": "High-elevation specialists",
+      "biome": "montane",
+      "kind": "hold",
+      "role": "Conserve rare upland vegetation and watershed function",
+      "source": "No consumer purchase recommended; specialists and protected-area managers only.",
+      "method": "No planting campaign until native species, microhabitat and climate exposure are surveyed.",
+      "care": "Limit trampling, fire, invasive plants and erosion.",
+      "monitor": "Vegetation transects, soil disturbance and species composition.",
+      "caution": "High-elevation species cannot be generalized across massifs.",
+      "refs": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "season": "Local onset of reliable rains; avoid storms and waterlogging."
+    }
+  ]
+}
