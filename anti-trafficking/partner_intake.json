@@ -1,0 +1,11 @@
+{
+  "schema": "pra_mg_partner_brief",
+  "version": 1,
+  "role": "local",
+  "organization": "Example community association (replace after authorization)",
+  "geography": "Region only; no beneficiary addresses",
+  "package": "P3",
+  "funding_sought_usd": 100000,
+  "description": "Draft only: confirm local authority, community participation, costs, environmental and child safeguarding, and independent verification.",
+  "status": "example only; no participation or funding is established"
+}

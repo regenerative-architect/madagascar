@@ -1,0 +1,24 @@
+{
+  "schema": "pra_mg_financing_package_proposals",
+  "version": 1,
+  "as_of": "2026-10-27",
+  "currency": "USD",
+  "status": "ILLUSTRATIVE PROPOSAL, NOT APPROVED FUNDING OR INVESTMENT OFFER",
+  "nationwide_anti_trafficking_proposed_budget_mga": {
+    "year_one_total_range": [8000000000, 15000000000],
+    "scale_up_annual_range": [15000000000, 30000000000],
+    "mature_annual_range": [20000000000, 40000000000],
+    "note": "Research-derived preliminary planning bands. Do not aggregate district pilot budgets without a reconciliation."
+  },
+  "packages": [
+    {"id":"P1", "months":24, "grants_usd":1200000, "commercial_usd":0, "line_items_usd":{"coordination":216000,"survivor_emergency_care":408000,"qualified_providers":288000,"privacy_data":108000,"evaluation":84000,"contingency":96000},"investor_return":"not applicable"},
+    {"id":"P2", "months":24, "grants_usd":750000, "commercial_usd":0, "line_items_usd":{"recruiter_verification":180000,"contracts":120000,"complaint_support":180000,"consular_protocol":90000,"evaluation":90000,"contingency":90000},"investor_return":"not applicable"},
+    {"id":"P3", "months":36, "grants_usd":2400000, "commercial_usd":0, "line_items_usd":{"meals":900000,"water":550000,"maintenance":250000,"cash_support":400000,"testing":150000,"contingency":150000},"investor_return":"not applicable"},
+    {"id":"P4", "months":84, "grants_usd":250000, "commercial_usd":300000,"investor_return":"Illustrative nominal modeled IRR only; interactive inputs in index.html, no guaranteed return"},
+    {"id":"P5", "months":84, "grants_usd":350000, "commercial_usd":500000,"investor_return":"Illustrative nominal modeled IRR only; interactive inputs in index.html, no guaranteed return"},
+    {"id":"P6", "months":84, "grants_usd":200000, "commercial_usd":400000,"investor_return":"Illustrative nominal modeled IRR only; interactive inputs in index.html, no guaranteed return"}
+  ],
+  "portfolio_totals_usd": {"public_and_grant":5150000,"commercial_capital":1200000,"combined":6350000},
+  "separation_rule": "No investor claims on trafficking, essential water, school meals, survivor data or social protection. No grant recourse for investment losses.",
+  "necessary_reviews": ["Malagasy legal and tax review", "risk, FX and market validation", "independent social and environmental assessment", "community rights and consent", "grant donor eligibility and procurement review", "anti-corruption and beneficial-ownership screening"]
+}
