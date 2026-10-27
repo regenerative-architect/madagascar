@@ -1,0 +1,1439 @@
+{
+  "schema": "pra_madagascar_link_inventory_v1",
+  "review_date": "2026-10-27",
+  "scope": "Archive external URLs in HTML, JSON and Markdown; local internal links are separately audited at build time. Status is a one-time retrieval snapshot, not monitoring or factual endorsement.",
+  "records": [
+    {
+      "url": "https://www.peaceau.org/en/article/communique-of-the-1306th-meeting-of-the-psc-emergency-session-held-on-15-october-2025-on-updated-briefing-on-the-situation-in-the-republic-of-madagascar",
+      "title": "African Union Peace and Security Council, 1306th meeting communiqué, 15 October 2025",
+      "tracks": [
+        "Institutional reform"
+      ],
+      "found_in": [
+        "reform/README.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.mdpi.com/2073-445X/14/4/698",
+      "title": "Andrianambinina et al., *Complex Deforestation Patterns in and Around the Protected Areas of Madagascar*, 2025",
+      "tracks": [
+        "Institutional reform"
+      ],
+      "found_in": [
+        "reform/README.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "access_limited",
+      "note": "Automated retrieval blocked, timed out or returned an access/interstitial response; not necessarily a dead URL."
+    },
+    {
+      "url": "https://www.bianco-mg.org/fr/actuality/41-madagascar-adopte-une-nouvelle-strategie-nationale-de-lutte-contre-la-corruption",
+      "title": "BIANCO, National Anti-Corruption Strategy 2025–2030",
+      "tracks": [
+        "Institutional reform"
+      ],
+      "found_in": [
+        "reform/README.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0264837725002455",
+      "title": "Burnod et al., *The long and winding road of the land reform in Madagascar*, 2025",
+      "tracks": [
+        "Institutional reform"
+      ],
+      "found_in": [
+        "reform/README.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "access_limited",
+      "note": "Automated retrieval blocked, timed out or returned an access/interstitial response; not necessarily a dead URL."
+    },
+    {
+      "url": "https://www.ceni-madagascar.mg/resultats-provisoires-des-elections-communales-et-municipales-du-11-decembre-2024/",
+      "title": "CENI, provisional results of communal and municipal elections of 11 December 2024",
+      "tracks": [
+        "Institutional reform"
+      ],
+      "found_in": [
+        "reform/README.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://eiti.org/countries/madagascar",
+      "title": "EITI, Madagascar country page",
+      "tracks": [
+        "Institutional reform"
+      ],
+      "found_in": [
+        "reform/README.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://openknowledge.fao.org/bitstreams/2352ab4d-5a11-4bff-981e-98daabfe13b0/download",
+      "title": "FAO, legal assessment of the ecosystem approach to fisheries in Madagascar",
+      "tracks": [
+        "Institutional reform"
+      ],
+      "found_in": [
+        "reform/README.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "access_limited",
+      "note": "Automated retrieval blocked, timed out or returned an access/interstitial response; not necessarily a dead URL."
+    },
+    {
+      "url": "https://www.fao.org/newsroom/story/a-more-secure-future-from-a-single-document/en",
+      "title": "FAO/World Bank land-certification results story, February 2025",
+      "tracks": [
+        "Institutional reform"
+      ],
+      "found_in": [
+        "reform/README.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://giace.org/resources/madagascar-at-a-crossroads/",
+      "title": "Governance & Integrity Anti-Corruption Evidence, *Madagascar at a crossroads: breaking the cycle of state capture*, 2026",
+      "tracks": [
+        "Institutional reform"
+      ],
+      "found_in": [
+        "reform/README.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.hcc.gov.mg/?p=9647",
+      "title": "High Constitutional Court, Decision No. 10-HCC/D3, 14 October 2025 — transition and presidential vacancy",
+      "tracks": [
+        "Institutional reform"
+      ],
+      "found_in": [
+        "reform/README.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.hcc.gov.mg/?p=9688",
+      "title": "High Constitutional Court, Decision No. 13-HCC/D3, 6 November 2025 — continuity of institutions and election postponement",
+      "tracks": [
+        "Institutional reform"
+      ],
+      "found_in": [
+        "reform/README.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.hcc.gov.mg/?p=10057",
+      "title": "High Constitutional Court, Decision on Law No. 2026-008 concerning state and decentralized-authority property",
+      "tracks": [
+        "Institutional reform"
+      ],
+      "found_in": [
+        "reform/README.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=117358",
+      "title": "ILO NATLEX, Law No. 2023-007 reforming the Mining Code",
+      "tracks": [
+        "Institutional reform"
+      ],
+      "found_in": [
+        "reform/README.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.imf.org/en/news/articles/2024/06/21/pr-24232-madagascar-imf-approves-us-337-million-under-the-ecf-and-us-321-million-under-the-rsf",
+      "title": "IMF approval of ECF and RSF arrangements, June 2024",
+      "tracks": [
+        "Institutional reform"
+      ],
+      "found_in": [
+        "reform/README.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.imf.org/en/news/articles/2026/09/30/pr26312-republic-of-madagascar",
+      "title": "IMF combined third and fourth ECF/RSF reviews, 30 September 2026",
+      "tracks": [
+        "Institutional reform"
+      ],
+      "found_in": [
+        "reform/README.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.imf.org/en/publications/technical-assistance-reports/issues/2026/05/08/republic-of-madagascar-technical-assistance-report-assessment-of-governance-and-575936",
+      "title": "IMF Governance Diagnostic, 8 May 2026",
+      "tracks": [
+        "Institutional reform"
+      ],
+      "found_in": [
+        "reform/README.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.imf.org/en/news/articles/2025/07/03/pr-25239-madagascar-imf-completes-2nd-rev-under-ecf-and-rsf-arrang",
+      "title": "IMF second reviews under ECF/RSF, 3 July 2025",
+      "tracks": [
+        "Institutional reform"
+      ],
+      "found_in": [
+        "reform/README.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003363101-10/linking-institutional-weaknesses-deforestation-drivers-governance-protected-areas-madagascar-alexandra-rasoamanana-roland-fr%C3%A9d%C3%A9ric-tahina-charlie-gardner",
+      "title": "Rasoamanana, Roland and Gardner, *Linking Institutional Weaknesses to Deforestation Drivers in the Governance of Protected Areas i…",
+      "tracks": [
+        "Institutional reform"
+      ],
+      "found_in": [
+        "reform/README.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "access_limited",
+      "note": "Automated retrieval blocked, timed out or returned an access/interstitial response; not necessarily a dead URL."
+    },
+    {
+      "url": "https://www.reuters.com/world/asia-pacific/madagascars-president-dissolves-national-assembly-escalating-crisis-2025-10-14/",
+      "title": "Reuters, chronology of the October 2025 takeover and preceding protests",
+      "tracks": [
+        "Institutional reform"
+      ],
+      "found_in": [
+        "reform/README.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.sadc.int/latest-news/communique-46th-ordinary-summit-sadc-heads-state-and-government-17th-august-2026",
+      "title": "SADC 46th Ordinary Summit communiqué, 17 August 2026",
+      "tracks": [
+        "Institutional reform"
+      ],
+      "found_in": [
+        "reform/README.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.sadc.int/latest-news/sadc-executive-secretary-engages-leadership-madagascar-and-seychelles-regional",
+      "title": "SADC Executive Secretary engagement with Madagascar, 24 January 2026",
+      "tracks": [
+        "Institutional reform"
+      ],
+      "found_in": [
+        "reform/README.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.sadc.int/latest-news/communique-extraordinary-summit-sadc-heads-state-and-government-17th-december-2025",
+      "title": "SADC Extraordinary Summit communiqué, 17 December 2025",
+      "tracks": [
+        "Institutional reform"
+      ],
+      "found_in": [
+        "reform/README.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.samifin.gov.mg/mou-eiti-madagascar",
+      "title": "SAMIFIN–EITI Madagascar beneficial-ownership cooperation",
+      "tracks": [
+        "Institutional reform"
+      ],
+      "found_in": [
+        "reform/README.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.transparency.org/en/countries/madagascar",
+      "title": "Transparency International, Madagascar country profile",
+      "tracks": [
+        "Institutional reform"
+      ],
+      "found_in": [
+        "reform/README.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/099052825141069158/pdf/BOSIB-09968310-4a5e-49e2-8770-1d32ff1c411e.pdf",
+      "title": "World Bank DPO programme document, including procurement, decentralization, SOE and mining reforms",
+      "tracks": [
+        "Institutional reform"
+      ],
+      "found_in": [
+        "reform/README.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.worldbank.org/en/results/2023/11/19/madagascar-making-an-impact-on-land-reform-and-agriculture",
+      "title": "World Bank, Madagascar land-reform results",
+      "tracks": [
+        "Institutional reform"
+      ],
+      "found_in": [
+        "reform/README.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.worldbank.org/en/news/press-release/2025/06/18/madagascar-leveling-the-playing-field-for-equitable-and-resilient-growth-across-key-sectors",
+      "title": "World Bank, Second Equitable and Resilient Growth DPO, June 2025",
+      "tracks": [
+        "Institutional reform"
+      ],
+      "found_in": [
+        "reform/README.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://soc-semences.mg/liste-des-etablissements-semenciers/",
+      "title": "Browse accredited sellers",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "access_limited",
+      "note": "Automated retrieval blocked, timed out or returned an access/interstitial response; not necessarily a dead URL."
+    },
+    {
+      "url": "https://www.fofifa.mg/production-de-semences/",
+      "title": "FOFIFA seed programme",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.oneearth.org/bioregions/madagascar-island-at6/",
+      "title": "S1 · Madagascar ecoregions — One Earth",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.douanes.gov.mg/prohibitions-et-interdictions/",
+      "title": "S10 · Malagasy customs — seeds and plants import formalities",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.miasa.gov.mg/direction-de-la-protection-des-vegetaux-dpv/",
+      "title": "S11 · Plant Protection Directorate (DPV)",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://mobot.mg/conservation/ecological_restoration/",
+      "title": "S12 · Missouri Botanical Garden — ecological restoration and monitoring",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.mangrovealliance.org/best-practice-guidelines-for-mangrove-restoration",
+      "title": "S13 · Global Mangrove Alliance — restoration guidelines",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.iita.org/wp-content/uploads/2020/05/Cowpea-manualENGLISH.pdf",
+      "title": "S14 · IITA — cowpea production manual",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "access_limited",
+      "note": "Automated retrieval blocked, timed out or returned an access/interstitial response; not necessarily a dead URL."
+    },
+    {
+      "url": "https://www.kew.org/plants/tapia-tree",
+      "title": "S15 · Kew — Tapia (Uapaca bojeri)",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "access_limited",
+      "note": "Automated retrieval blocked, timed out or returned an access/interstitial response; not necessarily a dead URL."
+    },
+    {
+      "url": "https://www.wildmadagascar.org/overview/forest_types.html",
+      "title": "S16 · Madagascar dry-forest native species overview",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.oneearth.org/ecoregions/madagascar-mangroves/",
+      "title": "S17 · One Earth — Madagascar mangrove species",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11286679/",
+      "title": "S18 · Agroforestry research — Madagascar review",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "access_limited",
+      "note": "Automated retrieval blocked, timed out or returned an access/interstitial response; not necessarily a dead URL."
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s10457-022-00733-y",
+      "title": "S19 · Peer-reviewed — native vanilla support trees",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.kew.org/read-and-watch/10-golden-rules-for-reforestation",
+      "title": "S2 · Kew — 10 Golden Rules for Reforestation",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.cabi.org/Uploads/CABI/publishing/promotional-materials/african-invasives-book.pdf",
+      "title": "S20 · CABI — invasive plants in Africa",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://mobot.mg/conservation/pointe-a-larree-site/di-melaleuca-2/",
+      "title": "S21 · MBG — invasive Melaleuca at Pointe à Larrée",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "access_limited",
+      "note": "Automated retrieval blocked, timed out or returned an access/interstitial response; not necessarily a dead URL."
+    },
+    {
+      "url": "https://www.kew.org/science/our-science/projects/regeneration-and-livelihoods-madagascar",
+      "title": "S22 · Kew — native dry forest regeneration field programme",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.kew.org/science/our-science/projects/GTSB-madagascar",
+      "title": "S23 · Kew — National tree seed bank partnership",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://adra.mg/miatrika-project-advances-mangrove-restoration-and-sustainable-livelihoods-in-southwestern-madagascar/",
+      "title": "S24 · ADRA Madagascar — community mangrove nurseries",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "access_limited",
+      "note": "Automated retrieval blocked, timed out or returned an access/interstitial response; not necessarily a dead URL."
+    },
+    {
+      "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A358109-1",
+      "title": "S25 · Kew Plants of the World — Uapaca bojeri",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77175646-1",
+      "title": "S26 · Kew POWO — Abrahamia ditimena",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://plantuse.plantnet.org/en/Adansonia_grandidieri_%28PROTA%29",
+      "title": "S27 · Plants for a Future/PROTA — Grandidier baobab local range",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.fao.org/family-farming/detail/en/c/1711090/",
+      "title": "S28 · FAO — 10 golden restoration rules",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "access_limited",
+      "note": "Automated retrieval blocked, timed out or returned an access/interstitial response; not necessarily a dead URL."
+    },
+    {
+      "url": "https://www.fao.org/4/ar816e/ar816e.pdf",
+      "title": "S29 · FAO — pigeon pea establishment",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "review_required",
+      "note": "citation mismatch — Atlas reference S29 describes pigeon pea establishment; linked PDF is an Ethiopia soil and water conservation field manual. Verify the intended reference."
+    },
+    {
+      "url": "https://www.kew.org/science/our-science/projects/gcbc-taneti",
+      "title": "S3 · Kew — Malagasy grasslands (TANETI)",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.fao.org/sustainable-forest-management/toolbox/tools/tool-detail/en/c/1335100/",
+      "title": "S31 · Global mangrove manual — hydrology and species positioning",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.gcbc.org.uk/evidence-repository/alien-and-invasive-poaceae-weed-species-in-madagascar-listing-and-recommendations/",
+      "title": "S33 · Kew/GCBC — 2026 alien/invasive grasses study",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.oneearth.org/ecoregions/madagascar-humid-forests/",
+      "title": "S34 · One Earth — eastern humid forest ecology",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.crs.org/projects/spices-program-supporting-farmers-madagascar",
+      "title": "S35 · CRS — agroforestry in Malagasy spice systems",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.environnement.mg/actualites/%F0%9D%90%92%F0%9D%90%9A%F0%9D%90%A2%F0%9D%90%AC%F0%9D%90%A8%F0%9D%90%A7-%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%AC-%F0%9D%90%A9%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%AD/",
+      "title": "S5 · SNGF — planting-season offer, 15 October 2026",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://soc-semences.miasa.gov.mg/",
+      "title": "S6 · SOC — registered/certified seed suppliers",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "access_limited",
+      "note": "Automated retrieval blocked, timed out or returned an access/interstitial response; not necessarily a dead URL."
+    },
+    {
+      "url": "https://soc-semences.miasa.gov.mg/registre-des-especes-et-varietes/",
+      "title": "S7 · SOC — register of south-region varieties",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.minae.gov.mg/vers-une-agriculture-resiliente-a-madagascar-18-varietes-de-semences-homologuees-pour-la-region-de-boeny/",
+      "title": "S9 · Agriculture ministry — 2025 Boeny certified varieties",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "access_limited",
+      "note": "Automated retrieval blocked, timed out or returned an access/interstitial response; not necessarily a dead URL."
+    },
+    {
+      "url": "https://www.environnement.mg/organisme-rattache/silo-national-des-graines-forestieres-a-madagascar/",
+      "title": "SNGF official details",
+      "tracks": [
+        "Living landscapes"
+      ],
+      "found_in": [
+        "vegetation_atlas/index.html",
+        "vegetation_atlas/source_manifest.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://mapafrica.afdb.org/en/countries/MG?lang=en",
+      "title": "African Development Bank — Madagascar MapAfrica project database",
+      "tracks": [
+        "Protection & finance"
+      ],
+      "found_in": [
+        "anti-trafficking/index.html",
+        "anti-trafficking/SOURCES.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "access_limited",
+      "note": "Automated retrieval blocked, timed out or returned an access/interstitial response; not necessarily a dead URL."
+    },
+    {
+      "url": "https://www.coe.int/en/web/anti-human-trafficking/-/greta-publishes-its-third-report-on-irela-1",
+      "title": "Council of Europe GRETA — Belgium 2022 review",
+      "tracks": [
+        "Protection & finance"
+      ],
+      "found_in": [
+        "anti-trafficking/index.html",
+        "anti-trafficking/SOURCES.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://justice.gov.ge/?id=J8ScpS4H8u&lang=2&m=articles",
+      "title": "Georgia Ministry of Justice — interagency coordination",
+      "tracks": [
+        "Protection & finance"
+      ],
+      "found_in": [
+        "anti-trafficking/index.html",
+        "anti-trafficking/SOURCES.json",
+        "anti-trafficking/research.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://gca.org/reports/madagascar-adaptation-investment-pipeline-and-financing-instruments/",
+      "title": "Global Center on Adaptation — Madagascar investment pipeline and financial instruments",
+      "tracks": [
+        "Protection & finance"
+      ],
+      "found_in": [
+        "anti-trafficking/index.html",
+        "anti-trafficking/SOURCES.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.thegef.org/projects-operations/projects/11710",
+      "title": "Global Environment Facility — green jobs adaptation, GEF 11710 / UNIDO",
+      "tracks": [
+        "Protection & finance"
+      ],
+      "found_in": [
+        "anti-trafficking/index.html",
+        "anti-trafficking/SOURCES.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "access_limited",
+      "note": "Automated retrieval blocked, timed out or returned an access/interstitial response; not necessarily a dead URL."
+    },
+    {
+      "url": "https://simpler.grants.gov/es/opportunity/1998807c-2c4c-45ce-924c-748dbcdeb2ad",
+      "title": "Grants.gov — FY2026 State TIP Office Annual Program Statement",
+      "tracks": [
+        "Protection & finance"
+      ],
+      "found_in": [
+        "anti-trafficking/index.html",
+        "anti-trafficking/SOURCES.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.greenclimate.fund/portfolio/projects/fp227",
+      "title": "Green Climate Fund FP227 — DEFIS+ / IFAD",
+      "tracks": [
+        "Protection & finance"
+      ],
+      "found_in": [
+        "anti-trafficking/index.html",
+        "anti-trafficking/SOURCES.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "access_limited",
+      "note": "Automated retrieval blocked, timed out or returned an access/interstitial response; not necessarily a dead URL."
+    },
+    {
+      "url": "https://www.greenclimate.fund/portfolio/projects/fp278",
+      "title": "Green Climate Fund FP278 — PrAda 2+ / GIZ",
+      "tracks": [
+        "Protection & finance"
+      ],
+      "found_in": [
+        "anti-trafficking/index.html",
+        "anti-trafficking/SOURCES.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "access_limited",
+      "note": "Automated retrieval blocked, timed out or returned an access/interstitial response; not necessarily a dead URL."
+    },
+    {
+      "url": "https://www.ilo.org/publications/fighting-forced-labour-example-brazil-0",
+      "title": "ILO — Brazil forced-labour mobile inspection model",
+      "tracks": [
+        "Protection & finance"
+      ],
+      "found_in": [
+        "anti-trafficking/index.html",
+        "anti-trafficking/SOURCES.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.ilo.org/media/375106/download",
+      "title": "ILO — Madagascar migrant domestic worker organising / SENAMAMA",
+      "tracks": [
+        "Protection & finance"
+      ],
+      "found_in": [
+        "anti-trafficking/index.html",
+        "anti-trafficking/SOURCES.json",
+        "anti-trafficking/research.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40asia/%40ro-bangkok/documents/publication/wcms_738042.pdf",
+      "title": "ILO — Thailand Ship to Shore Rights endline study",
+      "tracks": [
+        "Protection & finance"
+      ],
+      "found_in": [
+        "anti-trafficking/index.html",
+        "anti-trafficking/SOURCES.json",
+        "anti-trafficking/research.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://moldova.iom.int/resources/functioning-national-referral-system-protection-and-assistance-victims-and-potential-victims-trafficking-human-beings-nrs-republic-moldova-lessons-learnt-and-perspectives",
+      "title": "IOM Moldova — National Referral System lessons",
+      "tracks": [
+        "Protection & finance"
+      ],
+      "found_in": [
+        "anti-trafficking/index.html",
+        "anti-trafficking/SOURCES.json",
+        "anti-trafficking/research.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "access_limited",
+      "note": "Automated retrieval blocked, timed out or returned an access/interstitial response; not necessarily a dead URL."
+    },
+    {
+      "url": "https://crisisresponse.iom.int/index.php/response/madagascar-crisis-response-plan-2024",
+      "title": "IOM — Madagascar Crisis Response Plan 2024",
+      "tracks": [
+        "Protection & finance"
+      ],
+      "found_in": [
+        "anti-trafficking/index.html",
+        "anti-trafficking/SOURCES.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "access_limited",
+      "note": "Automated retrieval blocked, timed out or returned an access/interstitial response; not necessarily a dead URL."
+    },
+    {
+      "url": "https://app.primature.gov.mg/article/la-lutte-contre-la-traite-des-personnes-sera-integree-au-plan-de-mise-en-oeuvre-de-la-politique-generale-de-letat-pour-l",
+      "title": "Madagascar Primature — trafficking integration into PGE-R",
+      "tracks": [
+        "Protection & finance"
+      ],
+      "found_in": [
+        "anti-trafficking/index.html",
+        "anti-trafficking/SOURCES.json",
+        "anti-trafficking/research.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://transparency.dswd.gov.ph/wp-content/uploads/2026/07/2023-DSWD-Annual-Performance-Report-1.pdf",
+      "title": "Philippines DSWD — 2023 Annual Performance Report",
+      "tracks": [
+        "Protection & finance"
+      ],
+      "found_in": [
+        "anti-trafficking/index.html",
+        "anti-trafficking/SOURCES.json",
+        "anti-trafficking/research.md"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.otsh.mai.gov.pt/en/tsh-em-portugal/",
+      "title": "Portugal Observatory on Trafficking — national strategy",
+      "tracks": [
+        "Protection & finance"
+      ],
+      "found_in": [
+        "anti-trafficking/index.html",
+        "anti-trafficking/SOURCES.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "access_limited",
+      "note": "Automated retrieval blocked, timed out or returned an access/interstitial response; not necessarily a dead URL."
+    },
+    {
+      "url": "https://www.state.gov/reports/2026-trafficking-in-persons-report/madagascar",
+      "title": "U.S. Department of State — 2026 Madagascar TIP country report",
+      "tracks": [
+        "Protection & finance"
+      ],
+      "found_in": [
+        "anti-trafficking/index.html",
+        "anti-trafficking/SOURCES.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "access_limited",
+      "note": "Automated retrieval blocked, timed out or returned an access/interstitial response; not necessarily a dead URL."
+    },
+    {
+      "url": "https://www.dfc.gov/media/press-releases/dfc-announces-financing-madagascar-rare-earths-project",
+      "title": "U.S. DFC — first Malagasy mining project-development support",
+      "tracks": [
+        "Protection & finance"
+      ],
+      "found_in": [
+        "anti-trafficking/index.html",
+        "anti-trafficking/SOURCES.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://foreignassistance.gov/cd/madagascar",
+      "title": "U.S. ForeignAssistance.gov — Madagascar",
+      "tracks": [
+        "Protection & finance"
+      ],
+      "found_in": [
+        "anti-trafficking/index.html",
+        "anti-trafficking/SOURCES.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "review_required",
+      "note": "404 observed — The referenced country path returned 404 during this scan. Find the current country landing page before citing."
+    },
+    {
+      "url": "https://files.gao.gov/reports/GAO-26-107406/index.html",
+      "title": "U.S. GAO — anti-trafficking project challenges / FY2020–25 funding",
+      "tracks": [
+        "Protection & finance"
+      ],
+      "found_in": [
+        "anti-trafficking/index.html",
+        "anti-trafficking/SOURCES.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://2021-2025.state.gov/tip-office-project-descriptions/",
+      "title": "U.S. State Department TIP Office — historical projects",
+      "tracks": [
+        "Protection & finance"
+      ],
+      "found_in": [
+        "anti-trafficking/index.html",
+        "anti-trafficking/SOURCES.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "review_required",
+      "note": "interstitial — Automated retrieval returned a technical difficulties page; check manually."
+    },
+    {
+      "url": "https://www.unicef.org/madagascar/en/programme/child-protection",
+      "title": "UNICEF Madagascar — child protection programme",
+      "tracks": [
+        "Protection & finance"
+      ],
+      "found_in": [
+        "anti-trafficking/index.html",
+        "anti-trafficking/SOURCES.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.wfp.org/operations/mg03-madagascar-country-strategic-plan-2024-2028",
+      "title": "WFP CSP 2024–28",
+      "tracks": [
+        "Protection & finance"
+      ],
+      "found_in": [
+        "anti-trafficking/index.html"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.wfp.org/news/japan-and-wfp-strengthen-nutrition-and-farming-southern-madagascar",
+      "title": "WFP — Japan-backed rural transformation / nutrition hubs",
+      "tracks": [
+        "Protection & finance"
+      ],
+      "found_in": [
+        "anti-trafficking/index.html",
+        "anti-trafficking/SOURCES.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.worldbank.org/ext/en/country/madagascar",
+      "title": "World Bank — Madagascar country overview",
+      "tracks": [
+        "Protection & finance",
+        "Water & food"
+      ],
+      "found_in": [
+        "anti-trafficking/index.html",
+        "anti-trafficking/SOURCES.json",
+        "regeneration_bridge/index.html"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.worldbank.org/en/news/press-release/2026/07/06/madagascar-to-boost-urban-resilience-and-jobs-in-antananarivo-and-toamasina",
+      "title": "World Bank — PRODUIRE2, $225m urban resilience/jobs project",
+      "tracks": [
+        "Protection & finance"
+      ],
+      "found_in": [
+        "anti-trafficking/index.html",
+        "anti-trafficking/SOURCES.json"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38460512/",
+      "title": "2024 study of vascular-plant endemism and conservation gaps in Madagascar",
+      "tracks": [
+        "Water & food"
+      ],
+      "found_in": [
+        "regeneration_bridge/index.html"
+      ],
+      "check_date": "2026-10-27",
+      "status": "access_limited",
+      "note": "Automated retrieval blocked, timed out or returned an access/interstitial response; not necessarily a dead URL."
+    },
+    {
+      "url": "https://www.miasa.gov.mg/donner-un-nouvel-elan-au-developpement-du-grand-sud-des-financements-pour-la-plaine-de-dabara-le-projet-pepbm-2-et-le-projet-havelo-mandrare/",
+      "title": "Agriculture Ministry, September 2026 irrigation financing discussions",
+      "tracks": [
+        "Water & food"
+      ],
+      "found_in": [
+        "regeneration_bridge/index.html"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.amnesty.org/en/documents/afr35/0075/2025/en/",
+      "title": "Amnesty International 2025 report on drought-related displacement from Androy",
+      "tracks": [
+        "Water & food"
+      ],
+      "found_in": [
+        "regeneration_bridge/index.html"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://bngrc.gov.mg/saison-des-pluies-2026-2027-concertation-sur-les-previsions-climatiques-et-la-preparation-aux-risques-lies-a-el-nino/",
+      "title": "BNGRC, October 13 2026 seasonal risk-preparedness meeting",
+      "tracks": [
+        "Water & food"
+      ],
+      "found_in": [
+        "regeneration_bridge/index.html"
+      ],
+      "check_date": "2026-10-27",
+      "status": "access_limited",
+      "note": "Automated retrieval blocked, timed out or returned an access/interstitial response; not necessarily a dead URL."
+    },
+    {
+      "url": "https://www.landscapealliance.org/knowledge/publication/9420/",
+      "title": "CIFOR-ICRAF, 2026 forest landscape restoration and tenure security scoping study",
+      "tracks": [
+        "Water & food"
+      ],
+      "found_in": [
+        "regeneration_bridge/index.html"
+      ],
+      "check_date": "2026-10-27",
+      "status": "access_limited",
+      "note": "Automated retrieval blocked, timed out or returned an access/interstitial response; not necessarily a dead URL."
+    },
+    {
+      "url": "https://fews.net/southern-africa/madagascar/food-security-outlook/june-2026",
+      "title": "FEWS NET, June 2026 food security outlook",
+      "tracks": [
+        "Water & food"
+      ],
+      "found_in": [
+        "regeneration_bridge/index.html"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://ieu.greenclimate.fund/document/impact-evaluation-report-fp026",
+      "title": "Green Climate Fund, January 2026 eastern landscape impact evaluation",
+      "tracks": [
+        "Water & food"
+      ],
+      "found_in": [
+        "regeneration_bridge/index.html"
+      ],
+      "check_date": "2026-10-27",
+      "status": "access_limited",
+      "note": "Automated retrieval blocked, timed out or returned an access/interstitial response; not necessarily a dead URL."
+    },
+    {
+      "url": "https://www.ipcinfo.org/ipc-country-analysis/details-map/en/c/1165106/?iso3=MDG",
+      "title": "IPC, July 15 2026 food insecurity analysis for March 2026–February 2027",
+      "tracks": [
+        "Water & food"
+      ],
+      "found_in": [
+        "regeneration_bridge/index.html"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://app.primature.gov.mg/gouvernement/conseil-ministres?date=2026-04-28",
+      "title": "Madagascar Prime Minister's office, October 21 2026 Council of Ministers summary",
+      "tracks": [
+        "Water & food"
+      ],
+      "found_in": [
+        "regeneration_bridge/index.html"
+      ],
+      "check_date": "2026-10-27",
+      "status": "review_required",
+      "note": "date mismatch — Restoration Bridge citation labels this October 21, 2026 but its URL requests April 28, 2026."
+    },
+    {
+      "url": "https://www.education.gov.mg/securite-alimentaire-et-education-madagascar-structure-son-approche-des-cantines-scolaires-basees-sur-les-achats-locaux/",
+      "title": "Ministry of Education, February 2026 home-grown school-feeding coordination",
+      "tracks": [
+        "Water & food"
+      ],
+      "found_in": [
+        "regeneration_bridge/index.html"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.education.gov.mg/lancement-officiel-du-programme-integre-pour-la-transformation-des-apprentissages-fondamentaux-pitaf/",
+      "title": "Ministry of Education, February 27 2026 PITAF foundational learning launch",
+      "tracks": [
+        "Water & food"
+      ],
+      "found_in": [
+        "regeneration_bridge/index.html"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.meteomadagascar.mg/prevision/previsions-saisonnieres-hiver-meteo-madagascar/",
+      "title": "Météo Madagascar, 2026–2027 seasonal outlook",
+      "tracks": [
+        "Water & food"
+      ],
+      "found_in": [
+        "regeneration_bridge/index.html"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/03066150.2023.2174854",
+      "title": "Research on dina, local politics, customary and formal resource governance in Madagascar",
+      "tracks": [
+        "Water & food"
+      ],
+      "found_in": [
+        "regeneration_bridge/index.html"
+      ],
+      "check_date": "2026-10-27",
+      "status": "access_limited",
+      "note": "Automated retrieval blocked, timed out or returned an access/interstitial response; not necessarily a dead URL."
+    },
+    {
+      "url": "https://www.unicef.org/madagascar/en/documents/learning-learning-madagascar-experience-improve-access-secondary-education-vulnerable",
+      "title": "UNICEF bilingual Malagasy/French education and retention lessons",
+      "tracks": [
+        "Water & food"
+      ],
+      "found_in": [
+        "regeneration_bridge/index.html"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.unicef.org/madagascar/en/reports/cyclones-fytia-gezani-response-plan",
+      "title": "UNICEF, February–June 2026 cyclone response plan",
+      "tracks": [
+        "Water & food"
+      ],
+      "found_in": [
+        "regeneration_bridge/index.html"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.wfp.org/publications/school-meals-programme-madagascar",
+      "title": "WFP, October 2025 Madagascar school meals factsheet",
+      "tracks": [
+        "Water & food"
+      ],
+      "found_in": [
+        "regeneration_bridge/index.html"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.wfp.org/stories/mighty-el-nino-deepens-global-hunger-early-action-pays",
+      "title": "WFP, September 2026 anticipatory support and Madagascar MapTool",
+      "tracks": [
+        "Water & food"
+      ],
+      "found_in": [
+        "regeneration_bridge/index.html"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    },
+    {
+      "url": "https://www.wildmadagascar.org/overview/ecosystems.html",
+      "title": "WildMadagascar ecological overview",
+      "tracks": [
+        "Water & food"
+      ],
+      "found_in": [
+        "regeneration_bridge/index.html"
+      ],
+      "check_date": "2026-10-27",
+      "status": "retrieved",
+      "note": "Web crawler retrieved this destination on the review date; content may change."
+    }
+  ]
+}
